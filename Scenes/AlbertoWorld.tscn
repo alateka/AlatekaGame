@@ -12,6 +12,7 @@ data = PoolVector3Array( -7.5, 0.24, 1, 7.5, 0.24, 1, -7.5, -0.24, 1, 7.5, 0.24,
 [node name="AlbertoWorld" type="Spatial"]
 
 [node name="Alberto" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.52718, 0 )
 script = ExtResource( 1 )
 
 [node name="MeshInstance" type="MeshInstance" parent="."]
