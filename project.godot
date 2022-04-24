@@ -14,6 +14,12 @@ config/name="GenericGame"
 run/main_scene="res://Scenes/AlbertoWorld.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1280
+window/size/height=720
+mouse_cursor/custom_image="res://Assets/IMG/Cursor.webp"
+
 [input]
 
 wKey={
