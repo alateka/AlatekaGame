@@ -1,7 +1,8 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://Player/AlbertoController.gd" type="Script" id=1]
 [ext_resource path="res://Player/AlbertoController.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Scenes/AlbertoWorld.gd" type="Script" id=3]
 
 [sub_resource type="CubeMesh" id=2]
 size = Vector3( 15, 0.48, 2 )
@@ -11,6 +12,7 @@ data = PoolVector3Array( -7.5, 0.24, 1, 7.5, 0.24, 1, -7.5, -0.24, 1, 7.5, 0.24,
 
 [node name="AlbertoWorld" type="Spatial"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.542726, 0 )
+script = ExtResource( 3 )
 
 [node name="Alberto" parent="." instance=ExtResource( 2 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6.19571, 0 )
