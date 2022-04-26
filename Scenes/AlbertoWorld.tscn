@@ -32,7 +32,7 @@ material/0 = null
 shape = SubResource( 3 )
 
 [node name="MyBlenderModel" parent="." instance=ExtResource( 4 )]
-transform = Transform( 0.511, 0, 0, 0, 0.511, 0, 0, 0, 0.511, 1.88717, 0.817247, -0.00799942 )
+transform = Transform( 0.511, 0, 0, 0, 0.511, 0, 0, 0, 0.511, 4.37236, 0.667127, 0.164739 )
 
 [node name="StaticBody" type="StaticBody" parent="MyBlenderModel"]
 
