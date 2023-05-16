@@ -4,6 +4,8 @@ export.cfg
 *.import
 *.pck
 *.x86_64
+Binaries/
+.godot/shader_cache
 
 # Imported translations (automatically generated from CSV files)
 *.translation
