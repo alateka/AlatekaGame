@@ -1,2 +1,8 @@
-res://Player
-/run/media/alateka/FILES/SoftwareProjects/GodotProjects/PruebaGodotEngine/Binaries/Linux
+res://Assets/Styles
+res://Scenes/MainMenu
+res://Assets/Fonts
+/run/media/alateka/FILES/SoftwareProjects/GodotProjects/ALATEKA-GAME/Builds
+res://Assets/Img
+res://
+res://Scenes/Player
+res://Scenes/World

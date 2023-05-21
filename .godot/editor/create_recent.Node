@@ -1,3 +1,6 @@
+AudioStreamPlayer2D
+Button
+VBoxContainer
 Camera3D
 CollisionShape3D
 CharacterBody3D

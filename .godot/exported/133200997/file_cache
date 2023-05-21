@@ -1,3 +1,4 @@
-res://Assets/Models/Cube/my_blender_model.tscn::fcf998b745150dca0a4bf3eca6e19f85::1682981967::res://.godot/exported/133200997/export-0c4ae4325283c4f2cbbb0c00224c6c98-my_blender_model.scn
-res://Player/player.tscn::1dc6cca3116488fb9e4de8fc163fe03b::1682981967::res://.godot/exported/133200997/export-d267b47f7e81a3258979164d56d0d9c2-player.scn
-res://Scenes/world.tscn::d5b45976d5b006d77811910dbd9bc5e6::1682982278::res://.godot/exported/133200997/export-0271e18ecf37a36b455ad0b215994549-world.scn
+res://Assets/Models/Cube/my_blender_model.tscn::fcf998b745150dca0a4bf3eca6e19f85::1684271097::res://.godot/exported/133200997/export-0c4ae4325283c4f2cbbb0c00224c6c98-my_blender_model.scn
+res://Scenes/MainMenu/main_menu.tscn::541dafdd41dde3e81ad4bd5e61a65d5d::1684704459::res://.godot/exported/133200997/export-2dfcd67214f30425d40634aeb026f8a6-main_menu.scn
+res://Scenes/Player/player.tscn::1dc6cca3116488fb9e4de8fc163fe03b::1684271097::res://.godot/exported/133200997/export-8e63b53a88b650cb9792f8d8b6d332bc-player.scn
+res://Scenes/World/world.tscn::60895e0aa19a987db69a28675e5a07be::1684704458::res://.godot/exported/133200997/export-007c11e1cc340bd2458cacc32c844884-world.scn

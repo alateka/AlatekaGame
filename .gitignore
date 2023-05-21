@@ -13,3 +13,5 @@ Binaries/
 # Mono-specific ignores
 .mono/
 data_*/
+.vscode/
+Builds/

@@ -1,1 +1,5 @@
-res://Scenes/world.tscn
+res://Scenes/MainMenu/main_menu.tscn
+res://Assets/Styles/ButtonsStyle.tres
+res://Assets/Styles/HoverButtonsStyle.tres
+res://Scenes/MainMenu/main_menu.gd
+res://Scenes/World/world.tscn
