@@ -1,4 +1,11 @@
-res://Assets/Models/Cube/my_blender_model.tscn::fcf998b745150dca0a4bf3eca6e19f85::1684271097::res://.godot/exported/133200997/export-0c4ae4325283c4f2cbbb0c00224c6c98-my_blender_model.scn
-res://Scenes/MainMenu/main_menu.tscn::541dafdd41dde3e81ad4bd5e61a65d5d::1684704459::res://.godot/exported/133200997/export-2dfcd67214f30425d40634aeb026f8a6-main_menu.scn
-res://Scenes/Player/player.tscn::1dc6cca3116488fb9e4de8fc163fe03b::1684271097::res://.godot/exported/133200997/export-8e63b53a88b650cb9792f8d8b6d332bc-player.scn
-res://Scenes/World/world.tscn::60895e0aa19a987db69a28675e5a07be::1684704458::res://.godot/exported/133200997/export-007c11e1cc340bd2458cacc32c844884-world.scn
+res://Assets/Styles/ButtonsStyle.tres::0969de9ff33804097157b509f098e2a6::1685287295::res://.godot/exported/133200997/export-e75c5edd2254b971d2e6daef561f7c0c-ButtonsStyle.res
+res://Assets/Styles/HoverButtonsStyle.tres::c02bea579da3c62b56ca7a7a78411072::1685287295::res://.godot/exported/133200997/export-3f7cfe5454d9e84fe41292e768ad30e2-HoverButtonsStyle.res
+res://Assets/Textures/Roof/Roof.tres::71265751471394d9e3d11aed2daea7fe::1685287295::res://.godot/exported/133200997/export-db7f5f12bd4a7c1fc9ea5e8910c89bfc-Roof.res
+res://Assets/Textures/Structure/Brick.tres::8e8b7d4ceba9706ba2b67c06df4059b2::1685287632::res://.godot/exported/133200997/export-9ee6512977a9beb4a8034c812c1a0eb6-Brick.res
+res://Assets/Textures/Terrain/Terrain.tres::7059278ea1617e64ddcf62af62c93a5b::1685287699::res://.godot/exported/133200997/export-695dbf34dd3ffe946ab2e94fe826c1a4-Terrain.res
+res://Scenes/MainMenu/MainMenu.tscn::4994d64fb8b90c60c1dafd12b840a81e::1685287653::res://.godot/exported/133200997/export-ac22634f210ed72aaffe50757d1f9d3e-MainMenu.scn
+res://Scenes/Models/my_blender_model.tscn::5cb2155b8560edd7d642ce818c9b66f7::1684966360::res://.godot/exported/133200997/export-2fbfc8acfc2f339330702ab2cede4bc3-my_blender_model.scn
+res://Scenes/Player/Player.tscn::fe0ae9dd385a22161b6238f8bd8d6e40::1685287653::res://.godot/exported/133200997/export-81ac81193aa819dc19769e88ef012874-Player.scn
+res://Scenes/World/Building.tscn::c0395881bb6d36899d6c8dbcc4c4464c::1685287653::res://.godot/exported/133200997/export-ff82b99e66a73639d9e1b3c515f67680-Building.scn
+res://Scenes/World/Terrain.tscn::ae269599ff59c7ec757c769ab830bd83::1685287288::res://.godot/exported/133200997/export-254380a1af162b593f6970e8a77edeb6-Terrain.scn
+res://Scenes/World/World.tscn::ed0400c2de51fea1c2dca4573dea0273::1685287715::res://.godot/exported/133200997/export-7e7c21fe6d7442a708719853fd1a60b3-World.scn

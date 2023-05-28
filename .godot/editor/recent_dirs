@@ -1,8 +1,13 @@
+res://Scenes/Models
+res://Assets/Textures/Terrain
+/run/media/alateka/FILES/SoftwareProjects/GodotProjects/ALATEKA-GAME/Builds
+res://Assets/Textures/Structure
+res://Assets/Textures/Roof
+res://Scenes/World
+res://
+res://Assets/Textures
 res://Assets/Styles
 res://Scenes/MainMenu
 res://Assets/Fonts
-/run/media/alateka/FILES/SoftwareProjects/GodotProjects/ALATEKA-GAME/Builds
 res://Assets/Img
-res://
 res://Scenes/Player
-res://Scenes/World

@@ -1,0 +1,14 @@
+[gd_resource type="StandardMaterial3D" load_steps=4 format=3 uid="uid://dhvgdqvbhlyom"]
+
+[ext_resource type="Texture2D" uid="uid://ca7q4tbqgbixd" path="res://Assets/Textures/Terrain/rocky_trail_02_diff_1k.png" id="1_juymp"]
+[ext_resource type="Texture2D" uid="uid://dfst2h6leydb3" path="res://Assets/Textures/Terrain/rocky_trail_02_nor_gl_1k.png" id="2_4nskf"]
+[ext_resource type="Texture2D" uid="uid://c6ho8n3oigc5n" path="res://Assets/Textures/Terrain/rocky_trail_02_rough_1k.png" id="3_xsijd"]
+
+[resource]
+albedo_texture = ExtResource("1_juymp")
+roughness_texture = ExtResource("3_xsijd")
+normal_enabled = true
+normal_texture = ExtResource("2_4nskf")
+uv1_scale = Vector3(6, 6, 6)
+uv1_triplanar = true
+uv1_triplanar_sharpness = 35.5062
