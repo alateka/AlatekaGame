@@ -1,8 +1,8 @@
-[gd_scene load_steps=5 format=3 uid="uid://6b6ks3ndiki0"]
+[gd_scene load_steps=5 format=3 uid="uid://c7qrnmofrtfpg"]
 
 [ext_resource type="Script" path="res://Scenes/MainMenu/MainMenu.gd" id="1_wm27k"]
-[ext_resource type="StyleBox" uid="uid://dfxjc5nwqsqm6" path="res://Assets/Styles/ButtonsStyle.tres" id="2_tu08p"]
-[ext_resource type="StyleBox" uid="uid://ccyyrr84lls1t" path="res://Assets/Styles/HoverButtonsStyle.tres" id="3_ex7cu"]
+[ext_resource type="StyleBox" uid="uid://dfxjc5nwqsqm6" path="res://Assets/Styles/Buttons.tres" id="3_ihkor"]
+[ext_resource type="StyleBox" uid="uid://ccyyrr84lls1t" path="res://Assets/Styles/HoverButtons.tres" id="4_mqap7"]
 [ext_resource type="Texture2D" uid="uid://dlbeo7q5c4fwb" path="res://Assets/Img/MainMenuBackground.webp" id="4_obq4s"]
 
 [node name="MainMenu" type="Control"]
@@ -33,14 +33,14 @@ grow_vertical = 2
 
 [node name="StartButton" type="Button" parent="Buttons"]
 layout_mode = 2
-theme_override_styles/normal = ExtResource("2_tu08p")
-theme_override_styles/hover = ExtResource("3_ex7cu")
+theme_override_styles/normal = ExtResource("3_ihkor")
+theme_override_styles/hover = ExtResource("4_mqap7")
 text = "Start"
 
 [node name="ExitButton" type="Button" parent="Buttons"]
 layout_mode = 2
-theme_override_styles/normal = ExtResource("2_tu08p")
-theme_override_styles/hover = ExtResource("3_ex7cu")
+theme_override_styles/normal = ExtResource("3_ihkor")
+theme_override_styles/hover = ExtResource("4_mqap7")
 text = "Exit"
 
 [node name="OnHoverButtons" type="AudioStreamPlayer2D" parent="Buttons"]

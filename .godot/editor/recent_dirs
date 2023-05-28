@@ -1,3 +1,4 @@
+res://Assets/Styles
 res://Scenes/Models
 res://Assets/Textures/Terrain
 /run/media/alateka/FILES/SoftwareProjects/GodotProjects/ALATEKA-GAME/Builds
@@ -6,7 +7,6 @@ res://Assets/Textures/Roof
 res://Scenes/World
 res://
 res://Assets/Textures
-res://Assets/Styles
 res://Scenes/MainMenu
 res://Assets/Fonts
 res://Assets/Img
