@@ -1,8 +1,8 @@
+StaticBody3D
+CollisionShape3D
 CollisionPolygon3D
 AudioStreamPlayer3D
 Path3D
-CollisionShape3D
-StaticBody3D
 WorldEnvironment
 AudioStreamPlayer2D
 Button

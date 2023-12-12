@@ -5,7 +5,7 @@ const SPEED: float = 7
 const ACCELERATION: float = 9
 const GRAVITY: float = 1.55
 const JUMP_POWER: float = 59
-const MOUSE_SENSIVILITY: float = 0.3
+const MOUSE_SENSIVILITY: float = 0.2
 var xCameraRotate = 0
 
 # Camera
@@ -16,7 +16,7 @@ var xCameraRotate = 0
 @onready var WalkSound = $WalkSound
 @onready var JumpSound = $JumpSound
 
-# Load to walk sound
+# Load walk sound
 func _ready():
 	WalkSound.stream = preload('res://Assets/Sounds/WalkSound.ogg')
 	JumpSound.stream = preload('res://Assets/Sounds/JumpSound.ogg')
@@ -52,8 +52,8 @@ func _physics_process(delta):
 
 	# Run
 	if Input.is_action_pressed('shiftKey'):
-		normalSpeed = 15.0
-		normalJump = 33.0
+		normalSpeed = SPEED + 7
+		normalJump = JUMP_POWER - 26
 	else:
 		normalSpeed = SPEED
 		normalJump = JUMP_POWER

@@ -1,7 +1,6 @@
 res://Scenes/World/World.tscn
 res://Assets/Textures/Terrain/Terrain.tres
-res://Assets/Styles/ButtonsStyle.tres
-res://Assets/Styles/HoverButtonsStyle.tres
 res://Scenes/MainMenu/MainMenu.tscn
 res://Scenes/Models/Terrain.tscn
-res://Assets/Styles/HoverButtons.tres
+res://Scenes/World/World.gd
+res://Scenes/Player/Player.tscn
